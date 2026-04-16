@@ -27,7 +27,7 @@ The model predicts survival based on features like age, gender, and class.
 ## 📂 Files Included
 
 * titanic_survival_prediction.py
-* train.csv
+* titanic.csv
 * Report.pdf
 
 ## 🔗 Author
